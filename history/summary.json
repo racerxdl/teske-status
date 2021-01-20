@@ -4,9 +4,9 @@
     "url": "https://lucasteske.dev",
     "icon": "https://lucasteske.dev/favicon.ico",
     "slug": "let-s-hack-it",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 335,
     "timeMonth": 331,
     "timeYear": 331,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-20": 0
+    }
   },
   {
     "name": "OpenSatelliteProject RocketChat",
