@@ -24,9 +24,9 @@
     "url": "https://osp.teske.net.br",
     "icon": "https://osp.teske.net.br/favicon.ico",
     "slug": "open-satellite-project-rocket-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 548,
     "timeMonth": 486,
     "timeYear": 486,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-20": 0
+    }
   },
   {
     "name": "Scientist Poems",
