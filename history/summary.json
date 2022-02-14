@@ -5,16 +5,16 @@
     "icon": "https://lucasteske.dev/favicon.ico",
     "slug": "let-s-hack-it",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.76%",
+    "uptimeYear": "99.78%",
     "time": 1269,
-    "timeDay": 292,
-    "timeWeek": 500,
-    "timeMonth": 350,
-    "timeYear": 1368,
+    "timeDay": 886,
+    "timeWeek": 591,
+    "timeMonth": 364,
+    "timeYear": 1377,
     "dailyMinutesDown": {
       "2021-06-16": 17,
       "2021-05-06": 26,
@@ -42,8 +42,7 @@
       "2021-02-21": 20,
       "2021-02-20": 140,
       "2021-02-19": 41,
-      "2021-02-17": 27,
-      "2021-02-14": 75
+      "2021-02-17": 27
     }
   },
   {
@@ -56,12 +55,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "99.79%",
-    "time": 1316,
-    "timeDay": 596,
-    "timeWeek": 1127,
-    "timeMonth": 2623,
-    "timeYear": 1398,
+    "uptimeYear": "99.80%",
+    "time": 1317,
+    "timeDay": 1570,
+    "timeWeek": 1196,
+    "timeMonth": 2643,
+    "timeYear": 1408,
     "dailyMinutesDown": {
       "2022-01-19": 51,
       "2022-01-18": 3,
@@ -91,8 +90,7 @@
       "2021-02-18": 45,
       "2021-02-17": 27,
       "2021-02-16": 26,
-      "2021-02-15": 51,
-      "2021-02-14": 18
+      "2021-02-15": 51
     }
   },
   {
@@ -107,9 +105,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 160,
-    "timeDay": 156,
-    "timeWeek": 140,
-    "timeMonth": 146,
+    "timeDay": 99,
+    "timeWeek": 137,
+    "timeMonth": 143,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2021-06-08": 38
