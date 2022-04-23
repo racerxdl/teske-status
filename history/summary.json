@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 1272,
-    "timeDay": 240,
-    "timeWeek": 657,
-    "timeMonth": 453,
-    "timeYear": 871,
+    "timeDay": 354,
+    "timeWeek": 667,
+    "timeMonth": 440,
+    "timeYear": 859,
     "dailyMinutesDown": {
       "2021-06-16": 17,
       "2021-05-06": 26,
@@ -22,8 +22,7 @@
       "2021-04-29": 69,
       "2021-04-27": 34,
       "2021-04-26": 92,
-      "2021-04-25": 24,
-      "2021-04-23": 48
+      "2021-04-25": 24
     }
   },
   {
@@ -32,16 +31,16 @@
     "icon": "https://osp.teske.net.br/favicon.ico",
     "slug": "open-satellite-project-rocket-chat",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
-    "time": 1419,
-    "timeDay": 320,
-    "timeWeek": 1286,
-    "timeMonth": 881,
-    "timeYear": 1221,
+    "uptimeYear": "99.94%",
+    "time": 1409,
+    "timeDay": 600,
+    "timeWeek": 1003,
+    "timeMonth": 836,
+    "timeYear": 1211,
     "dailyMinutesDown": {
       "2022-01-19": 51,
       "2022-01-18": 3,
@@ -52,8 +51,7 @@
       "2021-06-14": 20,
       "2021-04-29": 37,
       "2021-04-27": 62,
-      "2021-04-26": 41,
-      "2021-04-23": 47
+      "2021-04-26": 41
     }
   },
   {
@@ -68,10 +66,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 159,
-    "timeDay": 95,
-    "timeWeek": 166,
-    "timeMonth": 145,
-    "timeYear": 153,
+    "timeDay": 101,
+    "timeWeek": 154,
+    "timeMonth": 143,
+    "timeYear": 152,
     "dailyMinutesDown": {
       "2021-06-08": 38
     }
