@@ -5,21 +5,20 @@
     "icon": "https://lucasteske.dev/favicon.ico",
     "slug": "let-s-hack-it",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 1267,
-    "timeDay": 325,
+    "uptimeYear": "99.98%",
+    "time": 1266,
+    "timeDay": 237,
     "timeWeek": 287,
     "timeMonth": 433,
-    "timeYear": 777,
+    "timeYear": 742,
     "dailyMinutesDown": {
       "2021-06-16": 17,
       "2021-05-06": 26,
-      "2021-04-30": 37,
-      "2021-04-29": 69
+      "2021-04-30": 37
     }
   },
   {
@@ -33,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1379,
-    "timeDay": 588,
-    "timeWeek": 503,
-    "timeMonth": 781,
-    "timeYear": 1169,
+    "time": 1378,
+    "timeDay": 310,
+    "timeWeek": 502,
+    "timeMonth": 777,
+    "timeYear": 1172,
     "dailyMinutesDown": {
       "2022-01-19": 51,
       "2022-01-18": 3,
@@ -45,8 +44,7 @@
       "2021-11-29": 16,
       "2021-07-05": 22,
       "2021-06-15": 28,
-      "2021-06-14": 20,
-      "2021-04-29": 37
+      "2021-06-14": 20
     }
   },
   {
@@ -61,8 +59,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 159,
-    "timeDay": 328,
-    "timeWeek": 163,
+    "timeDay": 180,
+    "timeWeek": 175,
     "timeMonth": 152,
     "timeYear": 154,
     "dailyMinutesDown": {
