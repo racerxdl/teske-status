@@ -54,9 +54,9 @@
     "url": "https://scientistpoems.lucasteske.dev",
     "icon": "https://scientistpoems.lucasteske.dev/favicon.ico",
     "slug": "scientist-poems",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -66,6 +66,7 @@
     "timeMonth": 163,
     "timeYear": 147,
     "dailyMinutesDown": {
+      "2022-12-10": 0,
       "2022-09-15": 19
     }
   }
