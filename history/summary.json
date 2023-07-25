@@ -5,15 +5,15 @@
     "icon": "https://lucasteske.dev/favicon.ico",
     "slug": "let-s-hack-it",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 237,
-    "timeDay": 105,
-    "timeWeek": 124,
-    "timeMonth": 139,
+    "time": 236,
+    "timeDay": 131,
+    "timeWeek": 125,
+    "timeMonth": 140,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2022-11-18": 326
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 556,
-    "timeDay": 642,
-    "timeWeek": 432,
-    "timeMonth": 452,
-    "timeYear": 564,
+    "timeDay": 465,
+    "timeWeek": 450,
+    "timeMonth": 456,
+    "timeYear": 562,
     "dailyMinutesDown": {
       "2022-11-22": 30,
       "2022-11-18": 324
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 127,
-    "timeWeek": 125,
-    "timeMonth": 136,
+    "timeDay": 137,
+    "timeWeek": 127,
+    "timeMonth": 137,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2022-09-15": 19
