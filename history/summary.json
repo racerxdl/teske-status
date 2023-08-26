@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 220,
-    "timeDay": 96,
-    "timeWeek": 134,
-    "timeMonth": 143,
-    "timeYear": 205,
+    "timeDay": 127,
+    "timeWeek": 131,
+    "timeMonth": 144,
+    "timeYear": 204,
     "dailyMinutesDown": {
       "2022-11-18": 326
     }
@@ -25,15 +25,15 @@
     "icon": "https://osp.teske.net.br/favicon.ico",
     "slug": "open-satellite-project-rocket-chat",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 548,
-    "timeDay": 344,
-    "timeWeek": 438,
-    "timeMonth": 507,
+    "timeDay": 576,
+    "timeWeek": 459,
+    "timeMonth": 514,
     "timeYear": 562,
     "dailyMinutesDown": {
       "2022-11-22": 30,
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 104,
-    "timeWeek": 168,
-    "timeMonth": 151,
+    "timeDay": 235,
+    "timeWeek": 181,
+    "timeMonth": 155,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2022-09-15": 19
