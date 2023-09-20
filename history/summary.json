@@ -4,19 +4,19 @@
     "url": "https://lucasteske.dev",
     "icon": "https://lucasteske.dev/favicon.ico",
     "slug": "let-s-hack-it",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.94%",
     "time": 211,
-    "timeDay": 201,
-    "timeWeek": 138,
-    "timeMonth": 156,
+    "timeDay": 198,
+    "timeWeek": 145,
+    "timeMonth": 157,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2023-09-20": 2,
+      "2023-09-20": 8,
       "2022-11-18": 326
     }
   },
@@ -46,19 +46,19 @@
     "url": "https://scientistpoems.lucasteske.dev",
     "icon": "https://scientistpoems.lucasteske.dev/favicon.ico",
     "slug": "scientist-poems",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 213,
-    "timeWeek": 136,
-    "timeMonth": 150,
+    "timeDay": 216,
+    "timeWeek": 146,
+    "timeMonth": 153,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2023-09-20": 0
+      "2023-09-20": 7
     }
   }
 ]
