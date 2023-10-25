@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 206,
-    "timeDay": 211,
-    "timeWeek": 144,
-    "timeMonth": 147,
-    "timeYear": 190,
+    "timeDay": 128,
+    "timeWeek": 138,
+    "timeMonth": 138,
+    "timeYear": 189,
     "dailyMinutesDown": {
       "2022-11-18": 326
     }
@@ -26,17 +26,16 @@
     "slug": "open-satellite-project-rocket-chat",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 545,
-    "timeDay": 502,
-    "timeWeek": 438,
-    "timeMonth": 472,
+    "time": 544,
+    "timeDay": 365,
+    "timeWeek": 428,
+    "timeMonth": 468,
     "timeYear": 564,
     "dailyMinutesDown": {
-      "2023-10-24": 8,
       "2022-11-22": 30,
       "2022-11-18": 324
     }
@@ -53,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 222,
-    "timeWeek": 147,
-    "timeMonth": 141,
+    "timeDay": 103,
+    "timeWeek": 138,
+    "timeMonth": 138,
     "timeYear": 149,
     "dailyMinutesDown": {}
   }
