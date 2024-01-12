@@ -6,18 +6,16 @@
     "slug": "let-s-hack-it",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 221,
-    "timeDay": 5548,
-    "timeWeek": 1972,
-    "timeMonth": 644,
-    "timeYear": 208,
-    "dailyMinutesDown": {
-      "2024-01-11": 7
-    }
+    "time": 220,
+    "timeDay": 5579,
+    "timeWeek": 1959,
+    "timeMonth": 647,
+    "timeYear": 209,
+    "dailyMinutesDown": {}
   },
   {
     "name": "OpenSatelliteProject RocketChat",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 541,
-    "timeDay": 329,
-    "timeWeek": 480,
-    "timeMonth": 459,
-    "timeYear": 563,
+    "time": 542,
+    "timeDay": 617,
+    "timeWeek": 486,
+    "timeMonth": 467,
+    "timeYear": 564,
     "dailyMinutesDown": {
       "2023-11-18": 112
     }
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 85,
-    "timeWeek": 140,
-    "timeMonth": 131,
+    "timeDay": 184,
+    "timeWeek": 134,
+    "timeMonth": 133,
     "timeYear": 142,
     "dailyMinutesDown": {}
   }
