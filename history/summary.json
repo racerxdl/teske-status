@@ -4,19 +4,19 @@
     "url": "https://lucasteske.dev",
     "icon": "https://lucasteske.dev/favicon.ico",
     "slug": "let-s-hack-it",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 186,
-    "timeWeek": 154,
-    "timeMonth": 634,
+    "timeDay": 168,
+    "timeWeek": 151,
+    "timeMonth": 619,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2024-01-30": 0
+      "2024-01-30": 7
     }
   },
   {
