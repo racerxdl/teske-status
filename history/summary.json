@@ -22,9 +22,9 @@
     "url": "https://osp.teske.net.br",
     "icon": "https://osp.teske.net.br/favicon.ico",
     "slug": "open-satellite-project-rocket-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -34,6 +34,7 @@
     "timeMonth": 546,
     "timeYear": 470,
     "dailyMinutesDown": {
+      "2024-12-22": 0,
       "2024-11-17": 75,
       "2024-03-03": 92
     }
