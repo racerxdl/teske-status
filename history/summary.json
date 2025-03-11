@@ -6,17 +6,17 @@
     "slug": "let-s-hack-it",
     "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "95.42%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.99%",
     "time": 194,
     "timeDay": 278,
     "timeWeek": 239,
     "timeMonth": 213,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2025-03-11": 0
+      "2025-03-11": 66
     }
   },
   {
@@ -54,19 +54,19 @@
     "url": "https://scientistpoems.lucasteske.dev",
     "icon": "https://scientistpoems.lucasteske.dev/favicon.ico",
     "slug": "scientist-poems",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "95.43%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.99%",
     "time": 157,
-    "timeDay": 190,
-    "timeWeek": 214,
-    "timeMonth": 201,
-    "timeYear": 163,
+    "timeDay": 170,
+    "timeWeek": 205,
+    "timeMonth": 199,
+    "timeYear": 162,
     "dailyMinutesDown": {
-      "2025-03-11": 0
+      "2025-03-11": 66
     }
   }
 ]
